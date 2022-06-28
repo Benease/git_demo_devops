@@ -1,2 +1,2 @@
-const greetings = "Hello World!";
+const greetings = "Hello World! hope you good";
 print(greetings);
